@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+./settings.py
+settings.py
+*settings.py
+monthly_challenges/settings.py
 # C extensions
 *.so
 
