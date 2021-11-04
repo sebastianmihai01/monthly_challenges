@@ -1,2 +1,2 @@
-# monthly_challenges
+# Django MVC
 Django backend course
